@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Entrenador A",
+    "equipo": "Equipo A",
+    "experiencia": "X años en la liga nacional",
+    "logros_previos": ["Campeón 2019", "..."]
+  },
+  {
+    "nombre": "Entrenador B",
+    "equipo": "Equipo B",
+    "experiencia": "Y años en la liga internacional",
+    "logros_previos": ["Subcampeón 2020", "..."]
+  },
+  {
+    "nombre": "Entrenador C",
+    "equipo": "Equipo C",
+    "experiencia": "Z años en la liga local",
+    "logros_previos": ["Mejor defensa 2018", "..."]
+  }
+]

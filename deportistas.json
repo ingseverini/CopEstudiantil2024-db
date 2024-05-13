@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "edad": 25,
+    "posicion": "Delantero",
+    "equipo": "Equipo A"
+  },
+  {
+    "nombre": "María López",
+    "edad": 22,
+    "posicion": "Defensa",
+    "equipo": "Equipo B"
+  },
+  {
+    "nombre": "Pedro García",
+    "edad": 28,
+    "posicion": "Centrocampista",
+    "equipo": "Equipo C"
+  },
+  {
+    "nombre": "Ana Martínez",
+    "edad": 23,
+    "posicion": "Portero",
+    "equipo": "Equipo D"
+  },
+  {
+    "nombre": "Carlos Rodríguez",
+    "edad": 26,
+    "posicion": "Delantero",
+    "equipo": "Equipo A"
+  }
+]

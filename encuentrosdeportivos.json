@@ -1,0 +1,16 @@
+[
+  {
+    "equipo_local": "Equipo A",
+    "equipo_visitante": "Equipo B",
+    "sede": "Estadio 1",
+    "fecha": "2024-05-15",
+    "resultado": "3-1"
+  },
+  {
+    "equipo_local": "Equipo C",
+    "equipo_visitante": "Equipo D",
+    "sede": "Estadio 2",
+    "fecha": "2024-05-16",
+    "resultado": "2-2"
+  }
+]

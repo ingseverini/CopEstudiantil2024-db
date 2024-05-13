@@ -1,0 +1,13 @@
+
+[
+  {
+    "encuentro": "Encuentro 1",
+    "marcador": "2-1",
+    "eventos_destacados": ["Gol de Juan Pérez", "..."]
+  },
+  {
+    "encuentro": "Encuentro 2",
+    "marcador": "1-0",
+    "eventos_destacados": ["Tarjeta roja para jugador X", "..."]
+  }
+]

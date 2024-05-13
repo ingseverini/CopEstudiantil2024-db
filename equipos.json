@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Equipo A",
+    "pais": "País A",
+    "jugadores": ["Juan Pérez", "Carlos Rodríguez", "..."],
+    "posicion_tabla": 3
+  },
+  {
+    "nombre": "Equipo B",
+    "pais": "País B",
+    "jugadores": ["María López", "..."],
+    "posicion_tabla": 1
+  },
+  {
+    "nombre": "Equipo C",
+    "pais": "País C",
+    "jugadores": ["Pedro García", "..."],
+    "posicion_tabla": 2
+  },
+  {
+    "nombre": "Equipo D",
+    "pais": "País D",
+    "jugadores": ["Ana Martínez", "..."],
+    "posicion_tabla": 4
+  }
+]
