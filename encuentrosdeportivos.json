@@ -1,16 +1,60 @@
-[
-  {
-    "equipo_local": "Equipo A",
-    "equipo_visitante": "Equipo B",
-    "sede": "Estadio 1",
-    "fecha": "2024-05-15",
-    "resultado": "3-1"
+[{
+  "_id": {
+    "$oid": "664e6221023bb0aa929704bd"
   },
-  {
-    "equipo_local": "Equipo C",
-    "equipo_visitante": "Equipo D",
-    "sede": "Estadio 2",
-    "fecha": "2024-05-16",
-    "resultado": "2-2"
-  }
-]
+  "equipos": [
+    "Junior",
+    "Once Caldas"
+  ],
+  "sede": "Estadio X",
+  "fecha": "2024-05-15",
+  "resultado": "2-1"
+},
+{
+  "_id": {
+    "$oid": "664e6221023bb0aa929704be"
+  },
+  "equipos": [
+    "Deportivo Cali",
+    "Tolima"
+  ],
+  "sede": "Estadio Y",
+  "fecha": "2024-05-16",
+  "resultado": "0-0"
+},
+{
+  "_id": {
+    "$oid": "664e6221023bb0aa929704bf"
+  },
+  "equipos": [
+    "Union Magdalena",
+    "Equipo F"
+  ],
+  "sede": "Estadio Z",
+  "fecha": "2024-05-17",
+  "resultado": "3-2"
+},
+{
+  "_id": {
+    "$oid": "664e6221023bb0aa929704c0"
+  },
+  "equipos": [
+    "Equipo G",
+    "Equipo H"
+  ],
+  "sede": "Estadio W",
+  "fecha": "2024-05-18",
+  "resultado": "1-1"
+},
+{
+  "_id": {
+    "$oid": "664e6221023bb0aa929704c1"
+  },
+  "equipos": [
+    "Equipo I",
+    "Equipo J"
+  ],
+  "sede": "Estadio V",
+  "fecha": "2024-05-19",
+  "resultado": "2-2"
+}]
