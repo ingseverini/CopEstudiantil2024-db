@@ -1,13 +1,40 @@
-
-[
-  {
-    "encuentro": "Encuentro 1",
-    "marcador": "2-1",
-    "eventos_destacados": ["Gol de Juan Pérez", "..."]
+[{
+  "_id": {
+    "$oid": "664e6296023bb0aa929704d2"
   },
-  {
-    "encuentro": "Encuentro 2",
-    "marcador": "1-0",
-    "eventos_destacados": ["Tarjeta roja para jugador X", "..."]
-  }
-]
+  "equipo": "Junior",
+  "posicion": 1,
+  "puntos": 9
+},
+{
+  "_id": {
+    "$oid": "664e6296023bb0aa929704d3"
+  },
+  "equipo": "Once Caldas",
+  "posicion": 2,
+  "puntos": 7
+},
+{
+  "_id": {
+    "$oid": "664e6296023bb0aa929704d4"
+  },
+  "equipo": "Deportivo Cali",
+  "posicion": 3,
+  "puntos": 5
+},
+{
+  "_id": {
+    "$oid": "664e6296023bb0aa929704d5"
+  },
+  "equipo": "Tolima",
+  "posicion": 4,
+  "puntos": 4
+},
+{
+  "_id": {
+    "$oid": "664e6296023bb0aa929704d6"
+  },
+  "equipo": "Union Magdalena",
+  "posicion": 5,
+  "puntos": 3
+}]
