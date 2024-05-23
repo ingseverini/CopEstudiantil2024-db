@@ -1,26 +1,60 @@
-[
-  {
-    "nombre": "Equipo A",
-    "pais": "País A",
-    "jugadores": ["Juan Pérez", "Carlos Rodríguez", "..."],
-    "posicion_tabla": 3
+[{
+  "_id": {
+    "$oid": "664e6272023bb0aa929704cb"
   },
-  {
-    "nombre": "Equipo B",
-    "pais": "País B",
-    "jugadores": ["María López", "..."],
-    "posicion_tabla": 1
+  "nombre": "Junior",
+  "jugadores": [
+    "Carlos Perez",
+    "Jugador 4",
+    "Jugador 7"
+  ],
+  "posicion": 1
+},
+{
+  "_id": {
+    "$oid": "664e6272023bb0aa929704cc"
   },
-  {
-    "nombre": "Equipo C",
-    "pais": "País C",
-    "jugadores": ["Pedro García", "..."],
-    "posicion_tabla": 2
+  "nombre": "Once Caldas",
+  "jugadores": [
+    "Jhonny Toloza",
+    "Jugador 5",
+    "Jugador 8"
+  ],
+  "posicion": 2
+},
+{
+  "_id": {
+    "$oid": "664e6272023bb0aa929704cd"
   },
-  {
-    "nombre": "Equipo D",
-    "pais": "País D",
-    "jugadores": ["Ana Martínez", "..."],
-    "posicion_tabla": 4
-  }
-]
+  "nombre": "Deportivo Cali",
+  "jugadores": [
+    "Mario Alvarez",
+    "Jugador 6",
+    "Jugador 9"
+  ],
+  "posicion": 3
+},
+{
+  "_id": {
+    "$oid": "664e6272023bb0aa929704ce"
+  },
+  "nombre": "Tolima",
+  "jugadores": [
+    "Juan Sierra",
+    "Jugador 10",
+    "Jugador 11"
+  ],
+  "posicion": 4
+},
+{
+  "_id": {
+    "$oid": "664e6272023bb0aa929704cf"
+  },
+  "nombre": "Union Magdalena",
+  "jugadores": [
+    "Junior de Barranquilla",
+    "Jugador 12",
+    "Jugador 13"
+  ],
+  "posicion": 5
+}]
