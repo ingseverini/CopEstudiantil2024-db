@@ -1,20 +1,45 @@
-[
-  {
-    "nombre": "Entrenador A",
-    "equipo": "Equipo A",
-    "experiencia": "X años en la liga nacional",
-    "logros_previos": ["Campeón 2019", "..."]
+[{
+  "_id": {
+    "$oid": "664e6251023bb0aa929704c4"
   },
-  {
-    "nombre": "Entrenador B",
-    "equipo": "Equipo B",
-    "experiencia": "Y años en la liga internacional",
-    "logros_previos": ["Subcampeón 2020", "..."]
+  "nombre": "Coco Basilio",
+  "equipo": "Junior",
+  "experiencia": "10 años",
+  "logros": "Campeón Nacional 2019"
+},
+{
+  "_id": {
+    "$oid": "664e6251023bb0aa929704c5"
   },
-  {
-    "nombre": "Entrenador C",
-    "equipo": "Equipo C",
-    "experiencia": "Z años en la liga local",
-    "logros_previos": ["Mejor defensa 2018", "..."]
-  }
-]
+  "nombre": "Pacho Maturana",
+  "equipo": "Once Caldas",
+  "experiencia": "8 años",
+  "logros": "Subcampeón Copa 2020"
+},
+{
+  "_id": {
+    "$oid": "664e6251023bb0aa929704c6"
+  },
+  "nombre": "Bolillo Gomez",
+  "equipo": "Deportivo Cali",
+  "experiencia": "5 años",
+  "logros": "Mejor Entrenador 2021"
+},
+{
+  "_id": {
+    "$oid": "664e6251023bb0aa929704c7"
+  },
+  "nombre": "Jose Pekerman",
+  "equipo": "Tolima",
+  "experiencia": "12 años",
+  "logros": "Campeón Liga 2018"
+},
+{
+  "_id": {
+    "$oid": "664e6251023bb0aa929704c8"
+  },
+  "nombre": "Pep Guardiola",
+  "equipo": "Union Magdalena",
+  "experiencia": "7 años",
+  "logros": "Mejor Táctica 2022"
+}]
