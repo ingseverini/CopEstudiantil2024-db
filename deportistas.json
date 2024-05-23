@@ -1,32 +1,45 @@
-[
-  {
-    "nombre": "Juan Pérez",
-    "edad": 25,
-    "posicion": "Delantero",
-    "equipo": "Equipo A"
+[{
+  "_id": {
+    "$oid": "664e61c9023bb0aa929704af"
   },
-  {
-    "nombre": "María López",
-    "edad": 22,
-    "posicion": "Defensa",
-    "equipo": "Equipo B"
+  "nombre": "Carlos Perez",
+  "edad": 25,
+  "posicion": "Delantero",
+  "equipo": "Junior"
+},
+{
+  "_id": {
+    "$oid": "664e61c9023bb0aa929704b0"
   },
-  {
-    "nombre": "Pedro García",
-    "edad": 28,
-    "posicion": "Centrocampista",
-    "equipo": "Equipo C"
+  "nombre": "Jhonny Toloza",
+  "edad": 28,
+  "posicion": "Defensa",
+  "equipo": "Once Caldas"
+},
+{
+  "_id": {
+    "$oid": "664e61c9023bb0aa929704b1"
   },
-  {
-    "nombre": "Ana Martínez",
-    "edad": 23,
-    "posicion": "Portero",
-    "equipo": "Equipo D"
+  "nombre": "Mario Alvarez",
+  "edad": 23,
+  "posicion": "Portero",
+  "equipo": "Deportivo Cali"
+},
+{
+  "_id": {
+    "$oid": "664e61c9023bb0aa929704b2"
   },
-  {
-    "nombre": "Carlos Rodríguez",
-    "edad": 26,
-    "posicion": "Delantero",
-    "equipo": "Equipo A"
-  }
-]
+  "nombre": "Juan Sierra",
+  "edad": 27,
+  "posicion": "Mediocampista",
+  "equipo": "Tolima"
+},
+{
+  "_id": {
+    "$oid": "664e61c9023bb0aa929704b3"
+  },
+  "nombre": "Junior de Barranquilla",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo": "Union Magdalena"
+}]
