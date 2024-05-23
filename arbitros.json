@@ -1,12 +1,55 @@
-[
-  {
-    "nombre": "Árbitro A",
-    "experiencia": "X años en la liga nacional",
-    "partidos_arbitrados": ["Encuentro 1", "Encuentro 3", "..."]
+[{
+  "_id": {
+    "$oid": "664e61f8023bb0aa929704b6"
   },
-  {
-    "nombre": "Árbitro B",
-    "experiencia": "Y años en la liga internacional",
-    "partidos_arbitrados": ["Encuentro 2", "..."]
-  }
-]
+  "nombre": "Pepe Mojica",
+  "experiencia": "15 años",
+  "partidos_arbitrados": [
+    "Partido 1",
+    "Partido 4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e61f8023bb0aa929704b7"
+  },
+  "nombre": "Vicente Fernandez",
+  "experiencia": "12 años",
+  "partidos_arbitrados": [
+    "Partido 2",
+    "Partido 5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e61f8023bb0aa929704b8"
+  },
+  "nombre": "Silvestre Dangond",
+  "experiencia": "10 años",
+  "partidos_arbitrados": [
+    "Partido 3",
+    "Partido 6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e61f8023bb0aa929704b9"
+  },
+  "nombre": "Diomedes Diaz",
+  "experiencia": "8 años",
+  "partidos_arbitrados": [
+    "Partido 7",
+    "Partido 8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e61f8023bb0aa929704ba"
+  },
+  "nombre": "Torito Arzuaga",
+  "experiencia": "20 años",
+  "partidos_arbitrados": [
+    "Partido 9",
+    "Partido 10"
+  ]
+}]
