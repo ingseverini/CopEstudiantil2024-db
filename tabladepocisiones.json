@@ -1,24 +1,55 @@
-[
-  {
-    "equipo": "Equipo A",
-    "posicion": 1,
-    "puntos": 9,
-    "partidos_jugados": 3,
-    "partidos_ganados": 3,
-    "partidos_empatados": 0,
-    "partidos_perdidos": 0,
-    "goles_favor": 8,
-    "goles_contra": 2
+[{
+  "_id": {
+    "$oid": "664e62bb023bb0aa929704d9"
   },
-  {
-    "equipo": "Equipo B",
-    "posicion": 2,
-    "puntos": 6,
-    "partidos_jugados": 3,
-    "partidos_ganados": 2,
-    "partidos_empatados": 0,
-    "partidos_perdidos": 1,
-    "goles_favor": 5,
-    "goles_contra": 3
-  }
-]
+  "encuentro": "Partido 1",
+  "marcador": "3-2",
+  "eventos_destacados": [
+    "Gol de Carlos Perez",
+    "Tarjeta Roja a Mario Alvarez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e62bb023bb0aa929704da"
+  },
+  "encuentro": "Partido 2",
+  "marcador": "1-1",
+  "eventos_destacados": [
+    "Gol de Jhonny Toloza",
+    "Penal detenido por Mario Alvarez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e62bb023bb0aa929704db"
+  },
+  "encuentro": "Partido 3",
+  "marcador": "2-0",
+  "eventos_destacados": [
+    "Gol de Juan Sierra",
+    "Asistencia de Junior de Barranquilla"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e62bb023bb0aa929704dc"
+  },
+  "encuentro": "Partido 4",
+  "marcador": "0-3",
+  "eventos_destacados": [
+    "Gol de Jugador 6",
+    "Tarjeta Amarilla a Jugador 7"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664e62bb023bb0aa929704dd"
+  },
+  "encuentro": "Partido 5",
+  "marcador": "2-2",
+  "eventos_destacados": [
+    "Gol de Jugador 8",
+    "Gol en propia puerta de Jugador 9"
+  ]
+}]
